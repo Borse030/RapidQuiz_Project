@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "userData": [
+    {
+      "lebel": "Name",
+      "type": "text",
+      "data": "Gaurav"
+    },
+    {
+      "lebel": "User Name",
+      "type": "email",
+      "data": "Gaurav@123"
+    },
+    {
+      "lebel": "Password",
+      "type": "text",
+      "data": "123456789"
+    }
+  ]
+}
